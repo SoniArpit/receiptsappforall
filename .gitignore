@@ -155,3 +155,5 @@ dmypy.json
 artifacts/
 
 sample_project/testenv/
+
+sample_project/
